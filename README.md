@@ -44,6 +44,23 @@
 - GitHub：[リポジトリ](https://github.com/s23017/feelling_app/tree/s24002)
 - 公開URL：[気分共有アプリ](https://feelling-app.vercel.app/)
 
+## 作品名 : 生活情報アプリ
+- 概要: 様々なAPIを使って日頃の面倒な情報収集を手頃にするサイトです。
+- 使用技術
+天気（天気予報API）※
+カレンダー（Google Calendar API）
+祝日（Holidays jp API）
+記念日（今日はなんの日API）
+メール（Gmail API）
+ニュース（NEWSDATA.IO）
+日替わり背景画像（Bing API）
+データベース（Supabase）
+- 選定理由 : APIの統合技術を測るため
+- 苦労した点 : 作成途中ですので終わったその時点で追記します。
+- 学んだこと : 〃
+- github : [リポジトリ](https://github.com/itc-s24005/news)
+- 公開URL : [情報共有アプリ](https://news-beta-ebon.vercel.app/)
+
 # ６．連絡先
 - Gmail：s24002@std.it-college.ac.jp  
 - Slack：s24002@std.it-college.ac.jp
