@@ -41,7 +41,7 @@
 - 選定理由：APIとの連携とグループ制作の仕方を学ぶため
 - 苦労した点：エラー処理、見栄え、単純化
 - 学んだこと：外部APIの扱い方、AIを交えたコーディングのやり方
-- GitHub：[リポジトリ](https://github.com/itc-s24005/Living-information)
+- GitHub：[リポジトリ](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
 - 公開URL：[気分共有アプリ](https://living-information.vercel.app/)
 
 ## 作品名 : 生活情報アプリ
