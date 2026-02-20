@@ -58,8 +58,8 @@
 - 選定理由 : APIの統合技術を測るため
 - 苦労した点 : 作成途中ですので終わったその時点で追記します。
 - 学んだこと : 〃
-- github : [リポジトリ](https://github.com/itc-s24005/news)
-- 公開URL : [情報共有アプリ](https://news-beta-ebon.vercel.app/)
+- github : [リポジトリ](https://github.com/itc-s24005/Living-information)
+- 公開URL : [情報共有アプリ](https://living-information.vercel.app/)
 
 # ６．連絡先
 - Gmail：s24002@std.it-college.ac.jp  
