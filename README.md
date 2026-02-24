@@ -42,7 +42,7 @@
 - 苦労した点：エラー処理、見栄え、単純化
 - 学んだこと：外部APIの扱い方、AIを交えたコーディングのやり方
 - GitHub：[リポジトリ](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
-- 公開URL：[気分共有アプリ]([https://living-information.vercel.app/](https://feelling-app.vercel.app/))
+- 公開URL：[気分共有アプリ](https://feelling-app.vercel.app/)
 
 ## 作品名 : 生活情報アプリ
 - 概要: 様々なAPIを使って日頃の面倒な情報収集を手頃にするサイトです。
